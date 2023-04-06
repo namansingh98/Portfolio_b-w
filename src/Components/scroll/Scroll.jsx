@@ -9,7 +9,7 @@ function Scroll() {
     else scrollUp.classList.remove("show-scroll");
   });
   return (
-    <a href="/" className="scroll-up">
+    <a href="#home" className="scroll-up">
       <i className="uil uil-arrow-up scroll-up__icon"></i>
     </a>
   );

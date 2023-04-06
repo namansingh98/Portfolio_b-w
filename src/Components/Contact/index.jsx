@@ -47,7 +47,7 @@ function Contact() {
                 href="instagram.com/_naman_rathore"
                 className="contact__button"
               >
-                Write me
+                Direct Message me
                 <i className="bx bx-right-arrow-alt"></i>
               </a>
             </div>
@@ -56,7 +56,7 @@ function Contact() {
               <h3 className="contact__cart-tile">Phone</h3>
               <span className="contact__card-data">+91 - 8881276849 </span>
               <a href="tel:+91-8881276849" className="contact__button">
-                Write me
+                Call Me me
                 <i className="bx bx-right-arrow-alt"></i>
               </a>
             </div>

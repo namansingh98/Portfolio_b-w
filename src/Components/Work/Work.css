@@ -63,3 +63,38 @@
   background-color: var(--title-color);
   color: var(--container-color);
 }
+
+
+/* ------breakpoints ----*/
+@media screen and (max-width: 992px) {
+  .work__container {
+    grid-template-columns: repeat(2, 210px);
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .work__container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .service__icon {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .work__modal-content {
+    padding: 4.5rem 1.5rem 2.5rem;
+  }
+
+  .work__modal-description {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .service__content {
+    padding-right: 6rem;
+  }
+}

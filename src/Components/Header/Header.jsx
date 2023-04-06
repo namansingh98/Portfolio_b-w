@@ -6,7 +6,7 @@ function Header() {
   return (
     <div className="header">
       <nav className="nav container">
-        <a href="/" className="nav__logo">
+        <a href="#home" className="nav__logo">
           Naman{" "}
         </a>
         <div className={toggle ? "nav__menu show-menu" : "nav__menu"}>

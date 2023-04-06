@@ -55,12 +55,11 @@ function Data() {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Web designer</h3>
+      <h3 className="home__subtitle">Web Designer / Web Developer</h3>
       <p className="home__subtitle_s">
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita
-        incidunt, assumenda nemo quas libero voluptates accusamus alias
-        molestiae deleniti voluptate quia minus, tempora dolorum vitae, neque
-        eius maxime praesentium velit?
+      I am passionate about creating beautiful, functional websites that provide an amazing user experience.
+      My goal is to build something amazing with you by combining my technical expertise and creative design skills. 
+    
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello

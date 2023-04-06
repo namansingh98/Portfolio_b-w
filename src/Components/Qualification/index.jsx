@@ -44,12 +44,12 @@ function Qualification() {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Designer</h3>
+                <h3 className="qualification__title">High School</h3>
                 <span className="qualification__subtitle">
-                  Delhi - Institute
+                  K.C.G.S.V.M - Mathura
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-bx-calendar-alt">March 2018-18</i>
+                  <i className="uil uil-bx-calendar-alt">March 2016</i>
                 </div>
               </div>
               <div>
@@ -65,21 +65,21 @@ function Qualification() {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Web Developer</h3>
-                <span className="qualification__subtitle">Delhi - IRSDC</span>
+                <h3 className="qualification__title">Intermediate</h3>
+                <span className="qualification__subtitle">Kamla Lal Inter College </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-bx-calendar-alt">April 2019-20 </i>
+                  <i className="uil uil-bx-calendar-alt">April 2018 </i>
                 </div>
               </div>
             </div>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Designer</h3>
+                <h3 className="qualification__title">B.sc (Computer Science)</h3>
                 <span className="qualification__subtitle">
-                  Delhi - Institute
+                shri babulal mahavidyalaya goverdhan - Mathura
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-bx-calendar-alt">March 2018-18</i>
+                  <i className="uil uil-bx-calendar-alt">March 2022-Present</i>
                 </div>
               </div>
               <div>
@@ -102,7 +102,7 @@ function Qualification() {
                   Delhi - Institute
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-bx-calendar-alt">March 2018-18</i>
+                  <i className="uil uil-bx-calendar-alt">March 2019-19</i>
                 </div>
               </div>
               <div>
@@ -120,18 +120,18 @@ function Qualification() {
                 <h3 className="qualification__title">Web Developer</h3>
                 <span className="qualification__subtitle">Delhi - IRSDC</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-bx-calendar-alt">April 2019-20 </i>
+                  <i className="uil uil-bx-calendar-alt">April 2020-21 </i>
                 </div>
               </div>
             </div>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Designer</h3>
+                <h3 className="qualification__title">WordPress Developer</h3>
                 <span className="qualification__subtitle">
-                  Delhi - Institute
+                  Bytes Logic It Solution - Noida
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-bx-calendar-alt">March 2018-18</i>
+                  <i className="uil uil-bx-calendar-alt">June 2022 - 25 August</i>
                 </div>
               </div>
               <div>
