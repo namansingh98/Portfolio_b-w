@@ -6,10 +6,10 @@ function Header() {
   return (
     <div className="header">
       <nav className="nav container">
-        <a href="" className="nav__logo">
+        <a href="/" className="nav__logo">
           Naman{" "}
         </a>
-        <div className={toggle?"nav__menu show-menu":"nav__menu"}>
+        <div className={toggle ? "nav__menu show-menu" : "nav__menu"}>
           <ul className="nav__list grid">
             <li className="nav__item">
               <a href="#home" className="nav__link">
@@ -39,11 +39,10 @@ function Header() {
           </ul>
           <i
             className="uil uil-times nav__close"
-              onClick={()=> showMenu(!toggle)}>
-          </i>
+            onClick={() => showMenu(!toggle)}
+          ></i>
         </div>
-        <div className="nav__toggle" 
-        onClick={()=> showMenu(!toggle)}>
+        <div className="nav__toggle" onClick={() => showMenu(!toggle)}>
           <i className="uil uil-bars"></i>
         </div>
       </nav>

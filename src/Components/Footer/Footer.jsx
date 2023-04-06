@@ -7,7 +7,7 @@ function Footer() {
         <h1 className="footer__title">Naman</h1>
         <ul className="footer__list">
           <li>
-          <a href="#home" className="footer__link">
+            <a href="#home" className="footer__link">
               Home
             </a>
             <a href="#about" className="footer__link">
@@ -22,13 +22,25 @@ function Footer() {
           </li>
         </ul>
         <div className="footer__social">
-          <a href="" className="footer__social-link" target="-blank">
+          <a
+            href="https://instagram.com/_naman_rathore"
+            className="footer__social-link"
+            target="-blank"
+          >
             <i className="uil uil-instagram"></i>
           </a>
-          <a href="" className="footer__social-link" target="-blank">
+          <a
+            href="https://dribbble.com/namanrathore"
+            className="footer__social-link"
+            target="-blank"
+          >
             <i className="uil uil-dribbble"></i>
           </a>
-          <a href="" className="footer__social-link" target="-blank">
+          <a
+            href="https://github.com/namansingh98/"
+            className="footer__social-link"
+            target="-blank"
+          >
             <i className="uil uil-github-alt"></i>
           </a>
         </div>
