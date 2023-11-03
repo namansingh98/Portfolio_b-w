@@ -20,7 +20,7 @@ function Works() {
   }, [item]);
   const handleClick = (e, index) => {
     setItem({ name: e.target.textContent });
-    setActive(index)
+    setActive(index);
   };
   return (
     <div>
@@ -29,7 +29,7 @@ function Works() {
         {projectsNav.map((item, index) => {
           return (
             <span
-              className={`${active === index ? "active__work" : ""}work__item`}
+              className={`${active === index ? "active__work" : ""} work__item`}
               key={index}
               onClick={(e) => handleClick(e, index)}
             >

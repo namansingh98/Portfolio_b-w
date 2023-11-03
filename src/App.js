@@ -9,7 +9,7 @@ import Qualification from "../src/Components/Qualification"
 import Contact from './Components/Contact'
 import Footer from './Components/Footer/Footer'
 import Scroll from './Components/scroll/Scroll'
-import Service from './Components/Services/Service'
+// import Service from './Components/Services/Service'
 import Work from './Components/Work/Work'
 function App() {
 
@@ -22,7 +22,7 @@ function App() {
       <Home/>
       <About/>
       <Skills/>
-      <Service/>
+      {/* <Service/> */}
       <Qualification/>
       <Work/>
       <Contact/> 

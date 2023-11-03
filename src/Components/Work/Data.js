@@ -1,31 +1,35 @@
-import Work1 from "../../assets/work3.jpg";
-import Work2 from "../../assets/work3.jpg";
-import Work3 from "../../assets/work3.jpg";
-import Work4 from "../../assets/work3.jpg";
+import Work1 from "../../assets/3d.png";
+import Work2 from "../../assets/portfolio.png";
+import Work3 from "../../assets/product.png";
+import Work4 from "../../assets/search.png";
 import Work5 from "../../assets/work3.jpg"
 export const projectData = [
   {
     id: 1,
     image: Work1,
-    title: "Web design",
-    category: "all",
+    title: "3d-real state website using gsap canvas scroll trigger",
+    category: "web",
+    link:"https://3d-realstate.vercel.app"
   },
   {
     id: 2,
     image: Work2,
-    title: "Web design",
+    title: "Portfolio",
+    link:"https://namanrathore.netlify.app",
     category: "web",
   },
   {
     id: 3,
     image: Work3,
-    title: "Web design",
-    category: "figma",
+    title: "E-commerce products",
+    link:"https://shiny-unicorn-3061c5.netlify.app/",
+    category: "app",
   },
   {
     id: 4,
     image: Work4,
-    title: "Web design",
+    title: "Google Search",
+    link:"https://google-s-functionality.netlify.app",
     category: "app",
   },
   {
