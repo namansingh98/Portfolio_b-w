@@ -13,7 +13,6 @@ import Scroll from './Components/scroll/Scroll'
 import Work from './Components/Work/Work'
 function App() {
 
-  
 
   return (
     <div className="App">
